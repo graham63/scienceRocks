@@ -1,3 +1,5 @@
+// Print a diamond with asterisks
+
 #include <iostream>
 using namespace std;
 
